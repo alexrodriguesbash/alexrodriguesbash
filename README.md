@@ -1,10 +1,10 @@
 <div align="center">
 
-# Alex Rodrigues
+# Alex Vinícius Ribeiro Rodrigues
 
 ## Sobre
 
-Sou o Alex Rodrigues, atuando como Desenvolvedor Java Júnior em uma empresa com soluções para o Mercado Financeiro.
+Sou o Alex Rodrigues, atuo como Desenvolvedor Java Júnior em uma empresa com soluções para o Mercado Financeiro.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alex-rodrigues-7a35a9141/)
 
